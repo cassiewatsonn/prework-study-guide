@@ -1,6 +1,8 @@
-# <Prework Study Guide Webpage>
+# Prework Study Guide Webpage
 
-## This prework study guide is for my time at University of Toronto Coding bootcamp. This is to help me study and keep important ideas in. This study guide contains notes on HTML, CSS, Git and JavaScript. 
+## Description
+
+This prework study guide is for my time at University of Toronto Coding bootcamp. This is to help me study and keep important ideas in. This study guide contains notes on HTML, CSS, Git and JavaScript. 
 
 ## Installation
 
